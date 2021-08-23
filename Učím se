@@ -1,0 +1,10 @@
+let pozdrav = ("Ahoj světe")
+console.log(pozdrav)
+let jmeno = 'Já jsem Nikol'
+console.log(jmeno)
+let vek = 'Je mi 29'
+console.log(vek)
+let text = ("Pracuji jako IT Recruiter")
+console.log(text)
+let text2 = ("Vítejte na mém profilu, ráda Vás poznávám:)")
+console.log(text2)
